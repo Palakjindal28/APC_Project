@@ -1,0 +1,4 @@
+com\example\gateway\controller\StudentGatewayController.class
+com\example\gateway\GatewayApplication.class
+com\example\gateway\controller\CourseGatewayController.class
+com\example\gateway\runner\ConsoleRunner.class
