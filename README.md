@@ -18,7 +18,9 @@ An Online Learning System built using Java and Spring Boot that enables users to
 ## 🛠️ Tech Stack
 
 **Backend:** Java, Spring Boot
+
 **Database:** MySQL / PostgreSQL
+
 **Tools:** Postman, Git, Maven
 
 ---
@@ -84,8 +86,11 @@ Contributions are welcome! Feel free to fork and improve the project.
 ## 📬 Contact
 
 👤 Palak Jindal
+
 📧 [palakjindal1206@gmail.com](mailto:palakjindal1206@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/palak-jindal-7a7b342a9/
+
 🔗 GitHub: https://github.com/Palakjindal28
 
 ---
